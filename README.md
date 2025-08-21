@@ -25,7 +25,12 @@ Requests (to fetch post data)
 
 📦 flask-blog/
 ├── main.py          # Flask app and routing logic
+
 ├── post.py          # Post model class
+
 ├── templates/
+
 │   ├── index.html   # Homepage template
+
 │   └── post.html    # Individual post template
+
